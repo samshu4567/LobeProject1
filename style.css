@@ -96,7 +96,13 @@ button:hover {
   align-items: center;
   border-radius: 10rem;
   max-width: 100%;
+  transition: all 0.2s 0s ease-in-out;
 }
+.image:hover{
+  transform: scale(1.05);
+
+}
+
 
 p {
   display: flex;
