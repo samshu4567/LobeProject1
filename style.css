@@ -311,3 +311,7 @@ order: 5;
 grid-column: 5/-1;
 }
 } */
+
+hr{
+  width: 50%;
+}
